@@ -1,4 +1,4 @@
 # A-Callback-Function-for-attr-
-The jQuery method attr(), also comes with a callback function. The callback function has two parameters: the index of the current element in the list of elements selected and the original (old) attribute value. You then return the string you wish to use as the new attribute value from the function.
+Metode jQuery attr(), juga dilengkapi dengan fungsi callback. Fungsi panggilan balik memiliki dua parameter: indeks elemen saat ini dalam daftar elemen yang dipilih dan nilai atribut asli (lama). Anda kemudian mengembalikan string yang ingin Anda gunakan sebagai nilai atribut baru dari fungsi tersebut.
 
-The following example demonstrates attr() with a callback function:
+Contoh berikut menunjukkan attr() dengan fungsi callback:
